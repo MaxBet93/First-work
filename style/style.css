@@ -1,0 +1,128 @@
+.body{
+    max-width: 1920px;
+    text-align: center;
+}
+.header{
+    display: inline-block;
+    background-color: #EEEFF1;
+    width:1920px;
+    height:700px;
+}
+main{
+    max-width: 1920px;
+}
+.moby{
+    list-style: none;
+    width: 1920px;
+    margin-left: 399px;
+    padding-top: 79px;
+    height: 16px;
+}
+ul{
+    padding: 0px;
+}
+ul>li{
+    float: left;
+    margin: 0;
+}
+ul>li>a{
+    color: #34547A;
+    display: block;
+    text-decoration: none;
+    padding-right: 42px;
+}
+.conteiner{
+    margin-top: 162px;
+    margin-left: 399px;
+}
+h1{
+    font-size: 48px;
+}
+.text{
+    margin-top:60px;
+    margin-bottom: 65px;
+    width:540px;
+    height: 67px;
+}
+.buttons{
+    position: absolute;
+    width: 225px;
+    height: 65px;
+    background-color:#34547A;
+    font-size: 16px;
+}
+.buttons>a{
+    color:#ffff;
+    text-decoration: none;
+}
+.conteiner1{
+    display: inline-block;
+    width: 1920px;
+    margin-top:112px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.conteiner1>h2{
+    font-size:32px;
+}
+.text1{
+    display:inline-block;
+    text-align: center;
+    width: 540px;
+    height: 147px;
+}
+.video{
+    width: 1110px;
+    height: 600px;
+    margin-left: 405px;
+
+}
+.container2{
+    display: inline-block;
+    width:1920px;
+    height:250px;
+    text-align: center;
+    background-color:#34547A;
+}
+.icons{
+    padding-left: 53px;
+    padding-top: 100px;
+    display: inline-block;
+}
+.icons>img{
+    float: left;
+    margin-right: 20px;
+}
+.icons>span{
+    font-size: 21px;
+    color: #ffff;
+}
+.conteiner3{
+    width: 1920px;
+    height: 1004px;
+    background-color:#EEEFF1;
+    text-align: center;
+    display: inline-block;
+    padding-top: 100px;
+}
+footer{
+    width: 1920px;
+    height: 151px;
+    margin-top: -15px;
+    padding-top: 50px;
+    background-color:#34547A;
+}
+footer>p{
+    padding-left: 406px;
+    font-size: 21px;
+    color:#ffff;
+}
+.etr{
+    padding-left: 406px;
+    font-size: 13px;
+    color:#ffff;
+}
+.vds{
+    width: 1110px;
+    height: 600px;
+}
